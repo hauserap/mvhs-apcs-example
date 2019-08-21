@@ -13,9 +13,11 @@
 2. Stage realted changes
     * git add
 3. Commit changes with a message
+    * git commi -m "Message"
 
 ## Commands
 
 * status -> tell me what files have been staged or commited
 * add ->  add a file to the stage
 * rm--cached-> remove a file from stage 
+* commit- m "Present tense description of what changed"
