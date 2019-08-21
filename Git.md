@@ -13,7 +13,7 @@
 2. Stage realted changes
     * git add
 3. Commit changes with a message
-    * git commi -m "Message"
+    * git commit -m "Message"
 
 ## Commands
 
